@@ -19,7 +19,7 @@ const transporter = nodemailer.createTransport(sendgridTransport({
     }
 }))
 
-//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
+
 
 
 router.post('/signup',(req,res)=>{
